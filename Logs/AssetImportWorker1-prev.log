@@ -1,0 +1,77 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.8f1 (b30333d56e81) revision 11731763'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'en' Physical Memory: 32675 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+I:/Other data/Lahore Films/Unity Training/Instructor Tasks/Instructor Task 4.3 4.4
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+60997
+Successfully changed project path to: I:/Other data/Lahore Films/Unity Training/Instructor Tasks/Instructor Task 4.3 4.4
+I:/Other data/Lahore Films/Unity Training/Instructor Tasks/Instructor Task 4.3 4.4
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+received signal from system: SIGSEGV
+Obtained 25 stack frames
+0x00007ff69d03f07d (Unity) 
+0x00007ff69d045d59 (Unity) 
+0x00007ff69dfb55f3 ((<unknown>)) 
+0x00007ff69d044d96 ((<unknown>)) 
+0x00007ff69d03e6ac ((<unknown>)) 
+0x00007ff69f39c1ce ((<unknown>)) 
+0x00007ff69f45baac ((<unknown>)) 
+0x00007ff69f368b40 ((<unknown>)) 
+0x00007fff8ad9235f ((<unknown>)) 
+0x00007fff8ad414a4 ((<unknown>)) 
+0x00007fff8ad90e8e ((<unknown>)) 
+0x00007ff69c8c295a ((<unknown>)) 
+0x00007ff69c8bd873 ((<unknown>)) 
+0x00007ff69c8bc786 ((<unknown>)) 
+0x00007ff69c8bcdf5 ((<unknown>)) 
+0x00007ff69c8bc08d ((<unknown>)) 
+0x00007ff69cdc9b08 ((<unknown>)) 
+0x00007ff69cbcf3da ((<unknown>)) 
+0x00007ff69cbcd8a8 ((<unknown>)) 
+0x00007ff69cc1a4a3 ((<unknown>)) 
+0x00007ff69db609a1 ((<unknown>)) 
+0x00007ff69dfbfd38 ((<unknown>)) 
+0x00007ff69f3464ae ((<unknown>)) 
+0x00007fff88e67034 ((<unknown>)) 
+0x00007fff8ad426a1 ((<unknown>)) 
+
